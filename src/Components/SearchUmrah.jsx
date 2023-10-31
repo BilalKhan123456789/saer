@@ -38,7 +38,7 @@ function SearchUmrah() {
 
   return (
     <>
-      <div className=" md:-mt-[650px] -mt-[750px]" >
+      <div className=" md:-mt-[650px] -mt-[790px]" >
         <div className="w-4/5 float-right  bg-[#699FC9]">
           <h1
             id="package_heading"

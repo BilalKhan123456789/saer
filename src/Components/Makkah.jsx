@@ -41,7 +41,7 @@ const cardDetails=()=>{
 
   return (
     <>
-      <div className="w-4/5 float-right md:-mt-[650px] -mt-[750px]  bg-[#699FC9]">
+      <div className="w-4/5 float-right md:-mt-[650px] -mt-[790px]  bg-[#699FC9]">
         <h1
           id="package_heading"
           className="md:text-3xl  text-lg mt-40  font-bold text-white px-10 md:mt-28"
