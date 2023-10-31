@@ -63,7 +63,7 @@ const getHotel=()=>{
 
   return (
     <>
-    <div className="flex flex-col">
+    <div className="flex flex-col bg-gray-100">
       <div>
       <header class="text-gray-600 body-font ">
         <div class="w-full mx-auto flex bg-[#699FC9] flex-wrap fixed p-5 flex-col md:flex-row items-center">
