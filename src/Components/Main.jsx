@@ -194,7 +194,7 @@ const getHotel=()=>{
               </Link>
             </li>
             <li className="hover:bg-white hover:rounded-tl-2xl hover:rounded-bl-2xl hover:p-1  w-48 text-white hover:text-[#699FC9]">
-              <Link to="/about" className="flex items-center">
+              <Link  className="flex items-center">
                 <img
                   src={insurrance}
                   className="md:w-5 md:h-5 w-4 h-4"
@@ -206,7 +206,7 @@ const getHotel=()=>{
               </Link>
             </li>{" "}
             <li className="hover:bg-white hover:rounded-tl-2xl hover:rounded-bl-2xl hover:p-1  w-48 text-white hover:text-[#699FC9]">
-              <Link to="/about" className="flex items-center">
+              <Link  className="flex items-center">
                 <img src={deals} className="md:w-5 md:h-5 w-4 h-4" alt="..." />
                 <p className=" mx-1 md:mx-3 md:text-lg text-xs">
                   Deals
@@ -214,7 +214,7 @@ const getHotel=()=>{
               </Link>
             </li>
             <li className="hover:bg-white hover:rounded-tl-2xl hover:rounded-bl-2xl hover:p-1  w-48 text-white hover:text-[#699FC9]">
-              <Link href="/about" className="flex items-center  ">
+              <Link  className="flex items-center  ">
                 <img
                   className="-ml-1 md:w-6 md:h-6 w-4 h-4"
                   src={visa}
@@ -226,7 +226,7 @@ const getHotel=()=>{
               </Link>
             </li>
             <li className="hover:bg-white hover:rounded-tl-2xl hover:rounded-bl-2xl hover:p-1  w-48 text-white hover:text-[#699FC9]">
-              <Link href="/about" className="flex items-center ">
+              <Link  className="flex items-center ">
                 <img
                   src={trip}
                   className="-ml-1 md:w-5 md:h-5 w-4 h-4"
