@@ -41,7 +41,7 @@ const cardDetails=()=>{
 
   return (
     <>
-      <div className="w-4/5 float-right md:-mt-[650px] -mt-[1120px]  bg-[#699FC9]">
+      <div className="w-4/5 float-right md:-mt-[650px] -mt-[750px]  bg-[#699FC9]">
         <h1
           id="package_heading"
           className="md:text-3xl  text-lg mt-40  font-bold text-white px-10 md:mt-28"
@@ -184,9 +184,9 @@ const cardDetails=()=>{
       <div className="w-4/5 -mt-60 float-right">
         <section class="text-gray-600 body-font">
           <div class="container px-5 py-10 mx-auto">
-            <div class="flex flex-wrap -m-2">
+            <div class="flex mt-52 flex-wrap -m-2">
               <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-                <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
+                <div class="h-full  flex items-center border-gray-200 border p-4 rounded-lg">
                   <div className="bg-[#E4F0FF]  rounded-full h-12 w-12 flex justify-center mr-4 ">
                     <img
                       alt="team"
